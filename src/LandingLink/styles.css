@@ -1,0 +1,17 @@
+.Landing-small-circle {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 12vmin;
+    width: 12vmin;
+    border-radius: 50%;
+    background-color: #F1FFE7;
+    color: #6D98BA;
+    font-size: 22px;
+}
+  
+.Landing-small-icon {
+    color: #6D98BA;
+    font-size: 12vmin;
+}
